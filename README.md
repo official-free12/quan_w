@@ -1,0 +1,6 @@
+# 2024全新版本多语言开源外汇交易所源码/H5版本内置客服系统
+
+支持定制，二开，修改功能等，需要联系客服<br>--------------------------------------------------------------------------------------------------<br>亲爱的各位买家朋友，懂源码就直接购买；<br>example.com，使用方必须在国家相关法律法规范围内并经过国家相关部门的授权许可，禁止用于一切非法行为。<br>example.com、实验、研究为目的，禁止用于一切商业运营，本团队不承担使用者在使用过程中的任何违法行为负责。<br>example.com。<br>演示站前台：example.com/#/<br>账号： 测试 密码 123456<br>演示后台：example.com/app/admin<br>账号：admin 密码：qq684975<br>------------------------------------------------------------------------------------------<br>后台主要功能：<br>用户管理：用户账号、余额增查删、重置密码<br>订单管理：用户订单查询、导出<br>充值管理：用户充值订单详情<br>收款列表：收款订单详情查询以及审核是否到账<br>资金记录：用户资金走向、充值记录、下单记录<br>产品列表：区块链、外汇、等<br>用户认证：用户提交认证信息记录<br>权限管理：账户管理、角色管理。菜单管理<br>通用管理：个人资料、附件管理、字典设置、系统设置、邮件设置<br>------------------------------------------------------------------------------------------<br>源码采用基于workerman开发的超高性能PHP框架后端、前端：uni-app 纯HTML模板渲染<br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/hqpbC" style="color: red;">https://mega-file.org/hqpbC</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
